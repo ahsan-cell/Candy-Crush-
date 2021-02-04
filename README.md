@@ -6,7 +6,7 @@ Candy crush crated on C++ using sfml library.
  Plesase see the description of functions in header files.
  
  Creators:
- Ahsan Iftikhar
- Husnain Asghar
- Wardah Maqbool Mehr
- Areesha Majid
+ Ahsan Iftikhar,
+ Husnain Asghar,
+ Wardah Maqbool Mehr,
+ Areesha Majid,
